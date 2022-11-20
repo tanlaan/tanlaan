@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Thrify Shopper](https://github.com/tanlaan/thrifty-shopper)
 
+- 📖 I'm currently reading [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/) 
+
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 📝 I regularly write articles on [https://www.chrisbolas.com](https://www.chrisbolas.com)
