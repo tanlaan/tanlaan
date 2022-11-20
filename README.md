@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Bolas</h1>
 <h3 align="center">Software Developer, Vancouver, WA</h3>
 
-- 🔭 I’m currently working on [Nutrition Facts]([https://github.com/tanlaan/thrifty-shopper](https://github.com/tanlaan/Nutrition_Facts))
+- 🔭 I’m currently working on [Nutrition Facts](https://github.com/tanlaan/Nutrition_Facts)
 
 - 📖 I'm currently reading [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/) 
 
