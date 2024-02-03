@@ -12,7 +12,7 @@
 
 - 👍 Recommendations:
   -  Book: [Deep Work](https://www.calnewport.com/books/deep-work/) by Cal Newport
-  -  Book: [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/) by Dave Hoover (Author), Adewale Oshineye (Author)
+  -  Book: [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/) by Dave Hoover, Adewale Oshineye
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
