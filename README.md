@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chris Bolas</h1>
-<h3 align="center">Software Developer, Vancouver, WA</h3>
+<h3 align="center">Software Developer and System Administrator, Vancouver, WA</h3>
 
 - 🔭 I’m currently working on [Nutrition Facts](https://github.com/tanlaan/Nutrition_Facts)
 
-- 📖 I'm currently reading [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/) 
+- 📖 I'm currently reading [So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+- 🌱 I’m currently learning **Ansible, HAProxy, Elasticsearch, WireGuard**
 
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 📝 I regularly write articles on [https://www.chrisbolas.com](https://www.chrisbolas.com)
+- 📝 I <s>hope to</s> regularly write articles at [https://www.chrisbolas.com](https://www.chrisbolas.com)
 
 - 📫 How to reach me **bolas.christopher@gmail.com**
 
 - 👍 Recommendations:
   -  Book: [Deep Work](https://www.calnewport.com/books/deep-work/) by Cal Newport
+  -  Book: [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/) by Dave Hoover (Author), Adewale Oshineye (Author)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
