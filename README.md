@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Bolas</h1>
-<h3 align="center">Software Developer and System Administrator, Vancouver, WA</h3>
+<h3 align="center">Software Developer and System Administrator, Belton, MO</h3>
 
 - 🔭 I’m currently working on [Nutrition Facts](https://github.com/tanlaan/Nutrition_Facts)
 
